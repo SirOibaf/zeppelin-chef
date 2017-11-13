@@ -27,3 +27,4 @@ default['zeppelin']['executor_memory']     = "512m"
 default['zeppelin']['driver_memory']       = "1g"
 default['zeppelin']['eventlog_enabled']    = "true"
 
+default['zeppelin']['enabled'] = "default"
